@@ -1,8 +1,8 @@
 [
 {
   "modid": "armoramor",
-  "name": "Botany Booster",
-  "description": "Random things I wanted to have, via Botania",
+  "name": "Armor Amor",
+  "description": "Nerf high-end armor so ConArm is not obscenely OP",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
